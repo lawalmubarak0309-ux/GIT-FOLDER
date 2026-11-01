@@ -17,3 +17,5 @@ const account = new BankAccount();
 account.deposit(7000);
 
 console.log(account.getBalance());
+let name = "bola"
+console.log(name)
