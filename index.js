@@ -14,7 +14,7 @@ class BankAccount {
 
 const account = new BankAccount();
 
-account.deposit(7000);
+account.deposit(70000);
 
 console.log(account.getBalance());
 let name = "bola"
